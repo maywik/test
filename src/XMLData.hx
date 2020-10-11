@@ -2,8 +2,6 @@ package;
 
 import haxe.xml.Access;
 import lime.system.System;
-import openfl.utils.Assets;
-import sys.FileSystem;
 import sys.io.File;
 import haxe.io.Path;
 
